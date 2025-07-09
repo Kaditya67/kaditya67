@@ -46,12 +46,14 @@ I write clean, scalable code and enjoy system design, performance optimization, 
 ### Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## 🚀 Featured Repositories
+
 [![TrendSight](https://img.shields.io/badge/TrendSight-Stock_Analysis-blue?logo=github)](https://github.com/Kaditya67/TrendSight-saas)
-[![Digitrax-II](https://img.shields.io/badge/TrendSight-Stock_Analysis-blue?logo=github)](https://github.com/Kaditya67/Attrendance-System)
-[![LeetCode-Practice](https://img.shields.io/badge/TrendSight-Stock_Analysis-blue?logo=github)](https://github.com/Kaditya67/practice-leetcode/tree/master)
-[![LeetCode-Submissions](https://img.shields.io/badge/TrendSight-Stock_Analysis-blue?logo=github)](https://github.com/Kaditya67/leetcode-submissions)
-[![Heartcare AI](https://img.shields.io/badge/TrendSight-Stock_Analysis-blue?logo=github)](https://github.com/Kaditya67/ecg_project)
-[![Portfolio](https://img.shields.io/badge/TrendSight-Stock_Analysis-blue?logo=github)](https://github.com/Kaditya67/Portfolio)
+[![Digitrax-II](https://img.shields.io/badge/Digitrax--II-Attendance_System-orange?logo=github)](https://github.com/Kaditya67/Attrendance-System)
+[![LeetCode Practice](https://img.shields.io/badge/LeetCode-Practice_Problems-yellow?logo=leetcode)](https://github.com/Kaditya67/practice-leetcode/tree/master)
+[![LeetCode Submissions](https://img.shields.io/badge/LeetCode-Submissions-orange?logo=leetcode)](https://github.com/Kaditya67/leetcode-submissions)
+[![Heartcare AI](https://img.shields.io/badge/Heartcare_AI-ECG_Prediction-red?logo=github)](https://github.com/Kaditya67/ecg_project)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Next.js_%2B_Tailwind-black?logo=vercel)](https://github.com/Kaditya67/Portfolio)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kaditya67&icon=0&color=0)](https://visitcount.itsvg.in)
