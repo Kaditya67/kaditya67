@@ -33,6 +33,8 @@ I write clean, scalable code and enjoy system design, performance optimization, 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kaditya67?theme=dark)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaditya67&show_icons=true&theme=tokyonight)
+
 <details>
   <summary>💻 Tech Stack</summary>
 
