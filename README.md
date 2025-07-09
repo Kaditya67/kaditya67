@@ -23,8 +23,7 @@ I write clean, scalable code and enjoy system design, performance optimization, 
 [![Twitter](https://img.shields.io/badge/X-black?logo=X&logoColor=white)](https://x.com/Aditya_Ojha__)
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ojhaaditya913@gmail.com)
 
-# 📊 GitHub Stats:
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
 ![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaditya67&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=kaditya67&theme=dracula&hide_border=false)
@@ -32,8 +31,6 @@ I write clean, scalable code and enjoy system design, performance optimization, 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaditya67&theme=dracula&layout=compact)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kaditya67?theme=dark)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaditya67&show_icons=true&theme=tokyonight)
 
 <details>
   <summary>💻 Tech Stack</summary>
