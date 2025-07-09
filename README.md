@@ -46,6 +46,8 @@ I write clean, scalable code and enjoy system design, performance optimization, 
 ### Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+[![TrendSight](https://img.shields.io/badge/TrendSight-Stock_Analysis-blue?logo=github)](https://github.com/kaditya67/TrendSight)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=kaditya67&icon=0&color=0)](https://visitcount.itsvg.in)
 
