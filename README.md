@@ -1,5 +1,17 @@
-# 💫 About Me:
-I’m a B.Tech student in Information Technology with a strong interest in building scalable, real-world applications. I’ve solved 600+ problems on LeetCode and consistently work on full-stack development using technologies like Django, React, PostgreSQL, and Tailwind CSS.<br><br>My recent work includes:<br><br>🔍 TrendSight – A stock market trend analysis platform with real-time data visualization<br><br>💡 Fear Tracker Extension – A productivity-focused browser extension for managing daily fears and actions<br><br>I'm currently deepening my expertise in Dynamic Programming, Advanced Graph Algorithms, and Object-Oriented Design Principles.<br><br>I enjoy writing clean, maintainable code and have a strong interest in system design, performance optimization, and end-user experience. Always driven by curiosity and a desire to grow as a software developer.
+# 💫 About Me
+
+🎓 Final-year B.Tech student in Information Technology  
+💻 Passionate full-stack developer & algorithm enthusiast  
+
+I've solved **600+ problems on LeetCode** and consistently build real-world apps using **Django**, **React**, **PostgreSQL**, and **Tailwind CSS**.
+
+**Recent Projects**:
+- 🔍 **TrendSight** – Stock market analysis platform with real-time data visualization  
+- 💡 **Fear Tracker Extension** – Browser extension to help users manage and act on their daily fears  
+
+Currently upskilling in **Dynamic Programming**, **Advanced Graph Algorithms**, and **OOP Design Principles**.  
+I write clean, scalable code and enjoy system design, performance optimization, and crafting intuitive user experiences.
+
 
 ## 🌐 Connect With Me:
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://portfolio-4r81.vercel.app)
