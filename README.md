@@ -50,6 +50,16 @@
 
 ---
 
+### 📖 Detailed Engineering Architecture & Case Studies
+
+For comprehensive architectural breakdowns, data models, and resume metrics, see the deep-dive documentation:
+- 💻 **[Personal & MERN Stack Analysis](docs/personal_projects_analysis.md)**: WebManager, PlannerX, knowledge-map, and goal-tracker.
+- 🐍 **[Django Systems & AI Pipelines](docs/django_projects_analysis.md)**: ECG HeartCare AI, TrendSight SaaS, RecordKeeper, and Attendance System.
+- 📱 **[GitLane Systems Case Study](docs/gitlane_technical_case_study.md)**: Android JNI, Native C Bridge (`libgit2`), and custom merge conflict engines.
+- 🎯 **[Master Resume Guide & Role Matrix](docs/master_project_resume_guide.md)**: Project matching matrix and bullet points by target role.
+
+---
+
 ### 💻 Tech Stack & Skills
 
 <details open>
