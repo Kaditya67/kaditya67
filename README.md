@@ -18,23 +18,35 @@
 ### 💫 About Me
 
 - 🎓 **Background**: B.Tech graduate in Information Technology
-- 💻 **Passionate About**: Building scalable web applications, clean architecture, and algorithms
+- 💻 **Passionate About**: Distributed systems, developer platforms, clean architecture, and low-level tooling
 - 🏆 **Problem Solving**: Solved **600+ problems** across LeetCode & competitive programming
-- 🛠️ **Core Stack**: React, Next.js, Node.js/Express, Django, PostgreSQL, MongoDB, and Tailwind CSS
-- 🎯 **Focus Areas**: System Design, Clean Code, Performance Optimization, and Microservices
+- 🛠️ **Core Technologies**: React 19, Node.js/Express, MongoDB, Python (Django & DRF), C / Native C Bridge, Redis, PostgreSQL
+- 🎯 **Focus Areas**: System Design, Asynchronous Processing, Developer Tooling, and Microservices
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Engineering Projects
 
-| Project | Description | Tech Stack | Link |
+#### 1. Personal & MERN Stack Platforms
+| Project | Description | Key Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
-| **TrendSight** | Stock market analysis SaaS with real-time financial data visualization | Next.js, Python, Tailwind, REST API | [View Repo](https://github.com/Kaditya67/TrendSight-saas) |
-| **Full-Stack Portfolio** | Interactive portfolio with dynamic admin management for experiences and projects | React, Vite, Express, MongoDB, JWT | [View Repo](https://github.com/Kaditya67/Portfolio) |
-| **Data Structures & Algorithms** | Self-contained, clean implementations of core data structures in C++ | C++11, OOP, Algorithms | [View Repo](https://github.com/Kaditya67/DSA) |
-| **Goal / YouTube Tracker** | YouTube playlist tracking tool to monitor learning roadmaps and completion | Django, Python, YouTube API, Bootstrap | [View Repo](https://github.com/Kaditya67/goal-tracker) |
-| **Digitrax-II** | Smart attendance tracking system | Python, Django, SQLite | [View Repo](https://github.com/Kaditya67/Attrendance-System) |
-| **Heartcare AI** | ECG predictive diagnostics powered by deep learning | Python, TensorFlow, Flask | [View Repo](https://github.com/Kaditya67/ecg_project) |
+| **WebManager** | Developer platform to map microservice hierarchies, track live multi-environment deployments (`prod`/`staging`), and manage bidirectional cloud infrastructure (AWS, Vercel, Supabase). | React 19, Node.js, Express, MongoDB, Tailwind | [View Repo](https://github.com/Kaditya67/WebManager) |
+| **PlannerX** | Scenario-driven project execution SaaS featuring hierarchical task-tree state engines, workspace isolation, deep focus sessions, and JSON roadmap template import/export. | React, Express, MongoDB, Tailwind, Rate-Limit | [View Repo](https://github.com/Kaditya67/PlannerX) |
+| **knowledge-map** | Personal knowledge base & documentation hub with dynamic categorization, tagging, Markdown GFM rendering, and Postman API test collection. | React, Express, Node.js, MongoDB, Postman | [View Repo](https://github.com/Kaditya67/knowledge-map) |
+| **Goal Tracker** | Learning milestone tracker integrating the YouTube Data API v3 to automate playlist metadata ingestion and progress tracking. | Python, Django 5.1, YouTube Data API v3 | [View Repo](https://github.com/Kaditya67/goal-tracker) |
+
+#### 2. Enterprise Django & AI Systems
+| Project | Description | Key Tech Stack | Link |
+| :--- | :--- | :--- | :---: |
+| **ECG HeartCare AI** | Medical diagnostic platform pairing 1D/2D CNN deep learning arrhythmia classification with an asynchronous Redis queue and a React waveform labeling suite. | Python, Django REST, PyTorch/TF (CNN), Redis, React | [View Repo](https://github.com/Kaditya67/ecg-heartcare-ai) |
+| **TrendSight SaaS** | Scalable multi-tenant SaaS boilerplate with modular business apps, role-based access, and automated GitHub Actions CI/CD across 4 release branches. | Python, Django, PostgreSQL, CI/CD, Tailwind | [View Repo](https://github.com/Kaditya67/TrendSight-saas) |
+| **RecordKeeper** | Audited financial ledger for administrative centers tracking customer application lifecycles, reconciling government fees, and 30-day rolling analytics. | Python, Django, Docker, SQLite/PostgreSQL | [View Repo](https://github.com/Kaditya67/RecordKeeper) |
+| **Attendance System** | Web-based attendance platform with staff workflows; led backend engineering and collaborative Git release management across 8 branches. | Python, Django, Git Branch Management | [View Repo](https://github.com/Kaditya67/Attrendance-System) |
+
+#### 3. Mobile & Systems Programming
+| Project | Description | Key Tech Stack | Link |
+| :--- | :--- | :--- | :---: |
+| **GitLane** | Flagship Android Git client powered by a compiled Native C Bridge (`libgit2` via NDK/JNI), featuring a 3-pane visual merge conflict resolver, interactive rebase, and hunk staging. | C (`libgit2`), Kotlin, Flutter/Dart, JNI | [View Repo](https://github.com/Kaditya67/GitLane) |
 
 ---
 
@@ -44,24 +56,25 @@
   <summary><strong>Languages & Core</strong></summary>
   <br />
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </details>
 
 <details open>
-  <summary><strong>Frameworks & Libraries</strong></summary>
+  <summary><strong>Frameworks & Systems</strong></summary>
   <br />
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
 </details>
 
@@ -70,8 +83,6 @@
   <br />
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
